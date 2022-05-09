@@ -18,4 +18,4 @@ streamlit.dataframe(my_fruit_list)
 # interactive widget
 streamlit.multiselect("Pick some fruits:",list(my_fruit_list.index))
 
-streamlit.dataframe(myfruit_list)
+streamlit.dataframe(my_fruit_list)
